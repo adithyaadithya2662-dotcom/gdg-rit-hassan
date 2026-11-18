@@ -1,18 +1,14 @@
 # 🚀 GDG on Campus – RIT Hassan
 
-\<p align="center">
-&#x20; \<strong>Building. Learning. Innovating. Together.\</strong>
-\</p>
+Building. Learning. Innovating. Together.
 
-\<p align="center">
-&#x20; A responsive website for the Google Developer Groups (GDG) on Campus community at Rajeev Institute of Technology, Hassan.
-\</p>
+A responsive website for the Google Developer Groups (GDG) on Campus community at Rajeev Institute of Technology, Hassan.
 
-\<p align="center">
-&#x20; \<a href="[https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/](https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/)">
-&#x20;   🌐 Visit Live Website
-&#x20; \</a>
-\</p>
+
+ Live Demo Link -- <a href="[https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/](https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/)">
+🌐 Visit Live Website
+
+
 
 ---
 
@@ -93,4 +89,5 @@ Google Developer Groups on Campus – RIT Hassan.
 
 ---
 
-\<p align="center">   Made with ❤️ for the developer community at RIT Hassan. \</p>
+Made with ❤️ for the developer community at RIT Hassan. 
+ZENALPHA Team-members = Adithya , Druva M H , Kumarswamy K R , Akash M .
