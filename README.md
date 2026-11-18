@@ -1,32 +1,96 @@
-# GDG on Campus – RIT Hassan Website
+# 🚀 GDG on Campus – RIT Hassan
 
-A responsive static website for the GDG on Campus community at Rajeev Institute of Technology, Hassan.
+\<p align="center">
+&#x20; \<strong>Building. Learning. Innovating. Together.\</strong>
+\</p>
 
-## Run locally
-1. Extract the ZIP archive.
-2. Open the `gdg_rit_website` folder in VS Code or your preferred editor.
-3. Open `index.html` in a browser, or use the VS Code Live Server extension.
+\<p align="center">
+&#x20; A responsive website for the Google Developer Groups (GDG) on Campus community at Rajeev Institute of Technology, Hassan.
+\</p>
 
-No npm, Node.js, build step or server-side setup is required.
+\<p align="center">
+&#x20; \<a href="[https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/](https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/)">
+&#x20;   🌐 Visit Live Website
+&#x20; \</a>
+\</p>
 
-## Included assets
-- `assets/rit-institute-logo.png` — Rajeev Institute of Technology identity
-- `assets/cse-department-logo.jpeg` — Computer Science & Engineering department identity
-- `assets/gdg-on-campus-logo.jpeg` — GDG on Campus RIT Hassan identity
-- `assets/codestorm-2026-banner.jpg` — CodeStorm 2026 featured banner
+---
 
-## Before publishing
-- Replace sample event titles and schedules with confirmed event information.
-- Verify the official GDG community destination and contact email in the Join section.
-- Confirm that the supplied logos and CodeStorm banner are approved for public use.
-- The Google Fonts stylesheet loads from Google Fonts; system fallbacks are provided if unavailable.
+## 🌟 About the Project
 
-## Structure
-```
-gdg_rit_website/
+The GDG on Campus – RIT Hassan website is designed to represent the campus developer community, showcase its identity, and provide an engaging online presence.
+
+It brings together technology, creativity, collaboration, and student innovation through a modern web experience.
+
+## 🎯 Project Objectives
+
+- Establish an online presence for GDG on Campus at RIT Hassan.
+- Present the community with a modern and professional design.
+- Provide an engaging browsing experience.
+- Showcase the community's identity and activities.
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Website structure
+- **CSS3** – Styling, layout and visual design
+- **JavaScript** – Interactive functionality
+- **GitHub** – Source code management
+- **GitHub Pages** – Website hosting and deployment
+
+## 📁 Project Structure
+
+```text
+gdg-rit-hassan/
+│
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── README.md
+│
 └── assets/
+    ├── GDG branding
+    ├── RIT branding
+    ├── CSE department logo
+    └── CodeStorm graphics
 ```
+
+## 🚀 Live Deployment
+
+**Website:**
+[https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/](https://adithyaadithya2662-dotcom.github.io/gdg-rit-hassan/)
+
+**Hosting Platform:** GitHub Pages
+
+## 💻 Run Locally
+
+1. Clone or download this repository.
+2. Extract the project files if downloaded as ZIP.
+3. Open the project folder.
+4. Open `index.html` in your browser.
+
+For local development, you can also use the Live Server extension in Visual Studio Code.
+
+## 🌐 Deployment Instructions
+
+This project is hosted using GitHub Pages.
+
+To publish updates:
+
+1. Upload the updated website files to the repository.
+2. Commit the changes to the `main` branch.
+3. GitHub Pages automatically rebuilds and publishes the website.
+
+## 🏫 Institution
+
+**Rajeev Institute of Technology (RIT)**
+Hassan, Karnataka, India.
+
+## 🤝 Community
+
+Google Developer Groups on Campus – RIT Hassan.
+
+**Learn. Build. Connect. Innovate.**
+
+---
+
+\<p align="center">   Made with ❤️ for the developer community at RIT Hassan. \</p>
